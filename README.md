@@ -1,7 +1,7 @@
 # Introduction to Python and Computational Linguistics Project
 
 ## Description
-This repository contains the group project for the 'Introduction to Python' and 'Computational Linguistics' courses as part of my Master's degree. The project investigates whether vector embeddings created by BERT exhibit symmetry when representing opposite positional statements.
+This repository contains the group project for the 'Introduction to Python' and 'Computational Linguistics' courses as part of our Master's degree. The project investigates whether vector embeddings created by BERT exhibit symmetry when representing opposite positional statements.
 
 ## Contents
 - `BERT_probing_ps.ipynb`: Jupyter Notebook with all the Python code used for the project.
