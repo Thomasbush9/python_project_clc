@@ -16,7 +16,7 @@ To run the Jupyter Notebook:
 3. Ensure you have Python and the required libraries installed.
 
 ## Usage
-Open the `` file in Jupyter Notebook or Google Colab to view the code and analysis.
+Open the `BERT_probing_ps.ipynb` file in Jupyter Notebook or Google Colab to view the code and analysis.
 
 ## Contact
 For any queries regarding this project, feel free to contact me at [thomasbush52@gmail.com].
